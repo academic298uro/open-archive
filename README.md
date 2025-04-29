@@ -10,7 +10,7 @@ This repository serves as a centralized resource hosting full-text HTML versions
 - **Content:**  
   The repository currently includes:
   - **Seminal Plasma Metallomics: A New Horizon for Diagnosing and Managing Male Infertility**  
-    [View Full-Text HTML](https://academic298uro.github.io/repository/seminal-plasma-metallomics-new-horizon.html)
+    [View Full-Text HTML](./2025/seminal-plasma-metallomics-new-horizon/)
   
   More full-text HTML articles will be added here in the future.
 
